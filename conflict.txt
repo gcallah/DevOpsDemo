@@ -1,1 +1,1 @@
-This file will have a conflict!
+This file will have a conflict! Here are some new changes.
