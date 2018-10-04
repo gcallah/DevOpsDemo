@@ -1,1 +1,1 @@
-creating a conflict and we'll pick other version.
+creating a conflict and we'll pick this version!
